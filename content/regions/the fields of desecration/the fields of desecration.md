@@ -1,6 +1,6 @@
 ---
 title: the fields of desecration
-draft: true
+draft: false
 tags:
   -
 ---

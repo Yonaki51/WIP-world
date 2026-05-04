@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome my world
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+this is a new work in progress fantasy world made by me! feel free to have a look around :)
