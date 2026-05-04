@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: The hissing timberland
 draft: false
 tags:
   -
