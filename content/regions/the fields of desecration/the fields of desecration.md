@@ -1,5 +1,5 @@
 ---
-title: '"the fields of desecration"'
+title: the fields of desecration
 draft: true
 tags:
   -
