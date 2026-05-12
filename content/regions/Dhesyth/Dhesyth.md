@@ -15,12 +15,13 @@ As long as the land of Dhesyth has been around, the air in it's regions have bee
 ## The expansion
 With time, the people of Dhesyth were able to harvest the [[Lungroot]] from these groves, which made the building of cities in other places in Dhesyth possible. Here is also when the culture of [[toxin masks]] was made. Herbologists and Druids started putting the flowers of the Lungroot plant into their masks, making them able to breathe the toxic air. which in turn, allowed them to travel and build towns, and eventually cities where this was not possible at first.
 
+### poison storms
+once every day, a natural event called a poison storm occurs, prompting almost everyone in Dhesyth to stay indoors. this event is Akin to a sandstorm you'd see in a desert. the poisonous air held deep underground is launched up through geysers located everywhere in Dhesyth, turning the air even more deadly than it already was.
 
 
 
 
 
 ## wildlife
-the bog is known to many ferocious monsters like, [[Worm drakes]], [[Venarists]], and [[Therekons]]
+the bog is known to many ferocious monsters like, [[Worm Drakes]], [[Venarists]], and [[Therekons]]
 
-poison storms
