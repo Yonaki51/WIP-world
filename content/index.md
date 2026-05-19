@@ -1,4 +1,4 @@
 ---
 title: WIP Fantasy World
 ---
-this is a new work in progress fantasy world made by me (Yonaki51)! feel free to have a look around :)
+This is a personal project I'm working on. Feel free to have a look around. Any help and advice is always appreciated :)
