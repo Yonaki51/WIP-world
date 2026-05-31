@@ -22,3 +22,6 @@ Over time, however, unsettling patterns emerged along the valley’s borders:
 - Echoes or metallic sounds drifting from deep within the valley during storms
 
 None of these were enough to spark investigation — only enough to deepen the valley’s reputation as a place best left alone.
+
+## the king
+
