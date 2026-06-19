@@ -24,4 +24,5 @@ Over time, however, unsettling patterns emerged along the valley’s borders:
 None of these were enough to spark investigation — only enough to deepen the valley’s reputation as a place best left alone.
 
 ## The kings betrayal
+after [[King Lysander]]'s betrayal, he was sentenced and left for dead in Prenhul's valleys, something happened to him, causing his soul to be split into multiple shard, each latching onto an item on his person, which each made a new body. Now, the many iterations of the king Rule prenhul, now known as the fields of descecration.
 
