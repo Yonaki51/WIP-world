@@ -6,4 +6,4 @@ tags:
 ---
  
 ## 29-5-2026
-added expanded lore for [[the fields of desecration]]
+added expanded lore for [[Ahrun Prenhul]]
